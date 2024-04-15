@@ -38,7 +38,7 @@ To run this model, simply clone the repo and ensure you have the following packa
 - [onnxruntime](https://github.com/microsoft/onnxruntime)
 - [gradio](https://github.com/gradio-app/gradio)
 
-Run `main.py` , after the gradio interface has been launched, go to `http://127.0.0.1:7860` on your browser.
+Run `main.py` , wait for the `gradio` interface to launch, then head to `http://127.0.0.1:7860` on your browser.
 
 *Voila!*
 
@@ -46,14 +46,15 @@ Run `main.py` , after the gradio interface has been launched, go to `http://127.
 ## Sample Results
 
 <h2 align="center">
-<img src="https://github.com/austinmyc/ZoeFocal/assets/59735570/8eb12171-a2eb-4bd1-a684-c30a4b8b8b19" width="750">
-<br>
 <img src="https://github.com/austinmyc/ZoeFocal/assets/59735570/b360bf72-2f74-43d3-b2aa-d39cd825d3ba" width="750">
-<br>
-<img src="https://github.com/austinmyc/ZoeFocal/assets/59735570/ad3fb4d6-daab-4c10-884e-c9879261e23e" width="750">
-<br>
-
+<br><br>
 <img src="https://github.com/austinmyc/ZoeFocal/assets/59735570/44ec4e59-8b89-4b1f-b6c6-1aea36b11bd8" width="750">
+<br><br>
+<img src="https://github.com/austinmyc/ZoeFocal/assets/59735570/8eb12171-a2eb-4bd1-a684-c30a4b8b8b19" width="750">
+<br><br>
+<img src="https://github.com/austinmyc/ZoeFocal/assets/59735570/ad3fb4d6-daab-4c10-884e-c9879261e23e" width="750">
+
 </h2>
 
 ## Credits
+My teammate on this project: [Eva Zhou](https://github.com/EvaZhoujy)
