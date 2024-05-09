@@ -14,7 +14,7 @@
   <a href="#background">Background</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#sample-results">Sample Results</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#credits">Credits</a> 
   
 </p>
 
